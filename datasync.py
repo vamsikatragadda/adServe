@@ -19,7 +19,7 @@ import requests
 DROPBOX_DIRECTORY="/adServe"
 LOCAL_DIR_PATH="/Users/vkatragadda/adServe"
 DROPBOX_DOWNLOAD_URL="https://content.dropboxapi.com/2/files/download"
-DROPBOX_TOKEN="4O-_Rqn3aAwAAAAAAAAT1E6WT7-toLY9lBGPkmkqihl4Rsxw1IJsPi2ue-Pd-dxV"
+DROPBOX_TOKEN="######################"
 DAYS_DELTA=2
 HOURS_DELTA=2
 MINUTES_DELTA=2
